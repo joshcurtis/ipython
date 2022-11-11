@@ -11,4 +11,5 @@
 
 from IPython import start_ipython
 
+print("JOSH WAS HERE")
 start_ipython()
